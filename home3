@@ -23,9 +23,9 @@
 
     <table style="width:100%">
         <tr>
-          <th>Company</th>
-          <th>Contact</th>
-          <th>Country</th>
+          <th>COMPANY</th>
+          <th>CONTACT</th>
+          <th>COUNTRY</th>
         </tr>
         <tr>
           <td>Alfreds Futterkiste</td>
